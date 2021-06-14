@@ -1,0 +1,34 @@
+h1 {
+  padding: 20px;
+}
+
+.demo-table {
+  width: 100%;
+}
+
+.mat-column-currency {
+  width: 32px;
+  border-right: 1px solid currentColor;
+  padding-right: 24px;
+  text-align: center;
+}
+
+.mat-column-name {
+  padding-left: 16px;
+}
+
+.mat-column-unit {
+  padding-left: 16px;
+}
+
+.mat-column-date {
+  padding-left: 16px;
+  width: 160px;
+  text-align: center;
+}
+
+.mat-column-value {
+  padding-left: 16px;
+  width: 32px;
+  text-align: left;
+}
